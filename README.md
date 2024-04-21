@@ -4,6 +4,7 @@ I'm an indie full-stack developer and content creator building my version of the
 
 
 # 💫 About Me:
+
 Fullstack Developer working remotely in India.<br>Best Selling Instructor (Explore my courses on Frontend (HTML, CSS, JavaScript, React JS), Backend (Python, Django, DRF) and Data Structures Algorithms).<br>Learning more about Entrepreneurship, CryptoCurrencies, Automations and Algorithms.<br>Fun fact: I like playing eFootball.
 
 
